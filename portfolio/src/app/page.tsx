@@ -1,7 +1,19 @@
-export default function Home() {
+import Hero from '@/components/Hero';
+import About from '@/components/About';
+import TechStack from '@/components/TechStack';
+import Projects from '@/components/Projects';
+import Work from '@/components/Work';
+import Contact from '@/components/Contact';
+
+export default function HomePage() {
   return (
-    <h1 className="text-5xl font-bold underline">
-      Hello world!
-    </h1>
-  )
+    <>
+      <Hero />
+      <About />
+      <TechStack />
+      <Projects />
+      <Work />
+      <Contact />
+    </>
+  );
 }
