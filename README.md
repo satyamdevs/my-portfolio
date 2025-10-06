@@ -1,2 +1,2 @@
 # my-portfolio
-know more about me 
+IN PROGRESS , WILL COMPLETEIN DIWALI BREAK
