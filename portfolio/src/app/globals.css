@@ -1,11 +1,5 @@
-/* src/app/global.css */
+@import "tailwindcss";
 
-/* Tailwind base, components, utilities */
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-/* Dark/light theme variables */
 :root {
   --background: #ffffff;
   --foreground: #171717;
